@@ -33,8 +33,9 @@ body {
 }
 
 .book img {
-  width: 100%;
+  width: 203px;
   object-fit: cover;
+  height: 305px;
 }
 
 .book h2 {
